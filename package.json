@@ -1,5 +1,5 @@
 {
-  "name": "vue-project",
+  "name": "primevue-create-vue-typescript-issue-template",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -10,9 +10,9 @@
     "type-check": "vue-tsc --noEmit"
   },
   "dependencies": {
-    "vue": "^3.2.45"
-  },
-  "devDependencies": {
+    "primeicons": "^6.0.1",
+    "primevue": "^3.21.0",
+    "vue": "^3.2.45",
     "@types/node": "^18.11.12",
     "@vitejs/plugin-vue": "^4.0.0",
     "@vue/tsconfig": "^0.1.3",
